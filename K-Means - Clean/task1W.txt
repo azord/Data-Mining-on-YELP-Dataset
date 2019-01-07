@@ -1,0 +1,34 @@
+{
+"algorithm": "K-Means",
+"WSSE": 157676.5825780367,
+"clusters": [ 
+ { 
+"id": 0,
+"size":1,
+"error":0.0,
+"terms": ["good,", "pilot,", "experience,", "anything,", "12,", "spent,", "flight,", "extra,", "umm,", "customary,", ]
+},
+ { 
+"id": 1,
+"size":2,
+"error":379.5,
+"terms": ["love,", "good,", "di,", "sauce,", "park,", "great,", "tomato,", "alla,", "pecorino,", "italian,", ]
+},
+ { 
+"id": 2,
+"size":1,
+"error":0.0,
+"terms": ["didnt,", "cash,", "us,", "tea,", "good,", "green,", "sushi,", "gyoza,", "hot,", "check,", ]
+},
+ { 
+"id": 3,
+"size":2,
+"error":91.0,
+"terms": ["carpet,", "clean,", "stains,", "came,", "new,", "cleaning,", "pet,", "looked,", "called,", "washed,", ]
+},
+ { 
+"id": 4,
+"size":993,
+"error":157206.0825780367,
+"terms": ["like,", "good,", "place,", "food,", "one,", "get,", "time,", "great,", "would,", "also,", ]
+},
