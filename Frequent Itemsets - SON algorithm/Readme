@@ -1,3 +1,3 @@
 The application finds all the possible combinations of the frequent itemsets in the Yelp Round 12 Dataset.
-<strong>Algorithm - SON.</strong> It partitions data and finds frequent itemset on each chunk. The code was tested on dataset with 1 million reviews and
+Algorithm - SON. It partitions data and finds frequent itemset on each chunk. The code was tested on dataset with 1 million reviews and
 support threshold - 100 000. It performed data mining in less than 400 seconds.
