@@ -1,0 +1,2 @@
+Different clustering algorithms using Apache Spark's scalable machine learning library.
+Algorithms - Gaussian Mixture Model (EM model), Hierarchical (Bisecting k-Means), k-Means.
